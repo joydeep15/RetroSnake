@@ -10,6 +10,7 @@ replace Sleep function in main
 find alternatives for _kbhit() and _getch() used in chDirection
 
 to run compile using vc++
+Code Ownership: Joydeep Halder
 */
 
 //Snake Game
