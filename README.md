@@ -1,2 +1,2 @@
 # RetroSnake
-The Classic Snake Game Written In C
+The Classic Snake Game Written In C++
