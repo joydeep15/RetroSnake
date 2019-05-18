@@ -9,19 +9,16 @@ if need arises to compile on linux
 replace Sleep function in main
 find alternatives for _kbhit() and _getch() used in chDirection
 
-to run compile using vc++
-Code Ownership: Joydeep Halder
 */
 
 //Snake Game
-#include "stdafx.h" 
 #include <stdio.h>
 #include<iostream>
 #include<stdlib.h>
 #include <windows.h>
 #include<conio.h>
-#include"graphics.h"
 using namespace std;
+
 #define height 24
 #define width 20
 #define MAXTAIL height*width -1 
